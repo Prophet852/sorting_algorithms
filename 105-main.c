@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "sort.h"
 
 /**
@@ -19,3 +17,4 @@ int main(void)
 	print_array(array, n);
 	return (0);
 }
+

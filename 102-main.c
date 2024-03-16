@@ -18,4 +18,7 @@ int main(void)
 	printf("\n");
 	print_array(array, n);
 	return (0);
+    
+    return (0);
 }
+
